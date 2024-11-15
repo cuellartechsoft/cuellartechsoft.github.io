@@ -1,8 +1,8 @@
-# Jekyll Materialize Starter Template v0.1
+# CUELLAR TECH SOFT
 
-*A Site Starter Materialize Templates.
+*Soluciones informáticas y tecnológicas
 
-The theme is a fork of the [minima][1]
+Software a medida [minima][1]
 
 ![minima theme preview](/screenshot.png)
 
@@ -13,8 +13,8 @@ The theme is available as so I use this source [MIT License][2].
 
 [Materialize][3] a  modern responsive front-end framework based on Material Design
 
-Copyright © 2019 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
+Copyright © 2024 cuellar tech soft. Powered by <a href="https://cuellartechsoft.github.io">cuellartechsoft</a>
 
-[1]: https://github.com/jekyll/minima
+[1]: https://github.com/cuellartechsoft
 [2]: https://opensource.org/licenses/MIT
 [3]: http://materializecss.com/
